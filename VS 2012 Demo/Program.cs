@@ -25,6 +25,8 @@ namespace VS_2012_Demo
             //some more changes
 
             //more changes
+
+            //last change before push
         }
     }
 }
